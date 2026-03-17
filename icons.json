@@ -1,1 +1,6 @@
-
+{
+  "icons": {
+    "peach": "https://cdn.jsdelivr.net/gh/ljl20040724-cmd/icon/icons/cloud-computing.png",
+    "apple": "https://cdn.jsdelivr.net/gh/ljl20040724-cmd/icon/icons/peach.png"
+  }
+}
